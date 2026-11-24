@@ -1,0 +1,228 @@
+{
+ "viewport": {
+  "w": 540,
+  "h": 960,
+  "scale": 2
+ },
+ "note": "times in seconds from page start (about 0.3 s earlier than the video clock); rects/points in CSS px",
+ "cues": [
+  {
+   "t": 4.24,
+   "type": "step",
+   "n": 1,
+   "of": 4,
+   "text": "Warehouses: one card per place, add a new one"
+  },
+  {
+   "t": 4.24,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 150,
+    "w": 528,
+    "h": 330
+   }
+  },
+  {
+   "t": 4.24,
+   "type": "move",
+   "x": 270,
+   "y": 230
+  },
+  {
+   "t": 5.09,
+   "type": "move",
+   "x": 270,
+   "y": 420
+  },
+  {
+   "t": 7.25,
+   "type": "focus_off"
+  },
+  {
+   "t": 7.25,
+   "type": "move",
+   "x": 183,
+   "y": 57
+  },
+  {
+   "t": 8.31,
+   "type": "click",
+   "x": 183,
+   "y": 57
+  },
+  {
+   "t": 15.1,
+   "type": "step",
+   "n": 2,
+   "of": 4,
+   "text": "New entry: warehouse, supplier, BL reference"
+  },
+  {
+   "t": 15.1,
+   "type": "move",
+   "x": 270,
+   "y": 163
+  },
+  {
+   "t": 16.28,
+   "type": "click",
+   "x": 270,
+   "y": 163
+  },
+  {
+   "t": 18.24,
+   "type": "move",
+   "x": 408,
+   "y": 130
+  },
+  {
+   "t": 19.33,
+   "type": "click",
+   "x": 408,
+   "y": 130
+  },
+  {
+   "t": 21.11,
+   "type": "move",
+   "x": 70.59375,
+   "y": 820.6015625
+  },
+  {
+   "t": 22.49,
+   "type": "click",
+   "x": 70.59375,
+   "y": 820.6015625
+  },
+  {
+   "t": 23.79,
+   "type": "move",
+   "x": 140,
+   "y": 196
+  },
+  {
+   "t": 24.77,
+   "type": "click",
+   "x": 140,
+   "y": 196
+  },
+  {
+   "t": 26.61,
+   "type": "move",
+   "x": 270,
+   "y": 349
+  },
+  {
+   "t": 27.73,
+   "type": "click",
+   "x": 270,
+   "y": 349
+  },
+  {
+   "t": 29.32,
+   "type": "move",
+   "x": 150,
+   "y": 502
+  },
+  {
+   "t": 30.54,
+   "type": "click",
+   "x": 150,
+   "y": 502
+  },
+  {
+   "t": 32.06,
+   "type": "move",
+   "x": 174,
+   "y": 404
+  },
+  {
+   "t": 33.05,
+   "type": "click",
+   "x": 174,
+   "y": 404
+  },
+  {
+   "t": 34.8,
+   "type": "step",
+   "n": 3,
+   "of": 4,
+   "text": "Save a draft, or Approve: the stock goes in"
+  },
+  {
+   "t": 34.8,
+   "type": "focus",
+   "rect": {
+    "x": 0,
+    "y": 880,
+    "w": 540,
+    "h": 80
+   }
+  },
+  {
+   "t": 36.21,
+   "type": "focus_off"
+  },
+  {
+   "t": 36.21,
+   "type": "move",
+   "x": 374,
+   "y": 930
+  },
+  {
+   "t": 37.39,
+   "type": "click",
+   "x": 374,
+   "y": 930
+  },
+  {
+   "t": 45.66,
+   "type": "step",
+   "n": 4,
+   "of": 4,
+   "text": "Inventory: Real, To go out, To enter, Quarantine"
+  },
+  {
+   "t": 45.66,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 610,
+    "w": 528,
+    "h": 250
+   }
+  },
+  {
+   "t": 45.66,
+   "type": "move",
+   "x": 270,
+   "y": 650
+  },
+  {
+   "t": 46.5,
+   "type": "move",
+   "x": 270,
+   "y": 840
+  },
+  {
+   "t": 48.65,
+   "type": "focus_off"
+  },
+  {
+   "t": 48.65,
+   "type": "move",
+   "x": 28,
+   "y": 641
+  },
+  {
+   "t": 49.7,
+   "type": "click",
+   "x": 28,
+   "y": 641
+  },
+  {
+   "t": 53.21,
+   "type": "end"
+  }
+ ]
+}

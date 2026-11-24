@@ -1,0 +1,219 @@
+{
+ "viewport": {
+  "w": 540,
+  "h": 960,
+  "scale": 2
+ },
+ "note": "times in seconds from page start (about 0.3 s earlier than the video clock); rects/points in CSS px",
+ "cues": [
+  {
+   "t": 4.68,
+   "type": "step",
+   "n": 1,
+   "of": 5,
+   "text": "Orders: every order of your store in one list"
+  },
+  {
+   "t": 4.68,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 192,
+    "w": 528,
+    "h": 520
+   }
+  },
+  {
+   "t": 4.68,
+   "type": "move",
+   "x": 300,
+   "y": 520
+  },
+  {
+   "t": 7.87,
+   "type": "focus_off"
+  },
+  {
+   "t": 7.87,
+   "type": "step",
+   "n": 2,
+   "of": 5,
+   "text": "Filter by status"
+  },
+  {
+   "t": 7.87,
+   "type": "move",
+   "x": 121,
+   "y": 104
+  },
+  {
+   "t": 9,
+   "type": "click",
+   "x": 121,
+   "y": 104
+  },
+  {
+   "t": 10.09,
+   "type": "focus",
+   "rect": {
+    "x": 13,
+    "y": 138,
+    "w": 514,
+    "h": 575
+   }
+  },
+  {
+   "t": 11.61,
+   "type": "move",
+   "x": 65.1328125,
+   "y": 257.9921875
+  },
+  {
+   "t": 12.45,
+   "type": "click",
+   "x": 65.1328125,
+   "y": 257.9921875
+  },
+  {
+   "t": 12.65,
+   "type": "focus_off"
+  },
+  {
+   "t": 14.25,
+   "type": "step",
+   "n": 3,
+   "of": 5,
+   "text": "Open a card: WhatsApp, call, view, edit, delete"
+  },
+  {
+   "t": 14.25,
+   "type": "move",
+   "x": 66,
+   "y": 226
+  },
+  {
+   "t": 14.91,
+   "type": "click",
+   "x": 66,
+   "y": 226
+  },
+  {
+   "t": 16.1,
+   "type": "focus",
+   "rect": {
+    "x": 325,
+    "y": 368,
+    "w": 202,
+    "h": 36
+   }
+  },
+  {
+   "t": 16.1,
+   "type": "move",
+   "x": 345,
+   "y": 386
+  },
+  {
+   "t": 16.84,
+   "type": "move",
+   "x": 520,
+   "y": 386
+  },
+  {
+   "t": 18.59,
+   "type": "focus_off"
+  },
+  {
+   "t": 18.59,
+   "type": "step",
+   "n": 4,
+   "of": 5,
+   "text": "Hold the status: Confirmed, then pick the delivery company"
+  },
+  {
+   "t": 18.59,
+   "type": "move",
+   "x": 478,
+   "y": 227
+  },
+  {
+   "t": 19.45,
+   "type": "hold",
+   "x": 478,
+   "y": 227
+  },
+  {
+   "t": 21.2,
+   "type": "move",
+   "x": 376.21875,
+   "y": 340.46875
+  },
+  {
+   "t": 22.03,
+   "type": "click",
+   "x": 376.21875,
+   "y": 340.46875
+  },
+  {
+   "t": 23.66,
+   "type": "focus",
+   "rect": {
+    "x": 0,
+    "y": 1000,
+    "w": 540,
+    "h": 270
+   }
+  },
+  {
+   "t": 25.06,
+   "type": "move",
+   "x": 203,
+   "y": 657
+  },
+  {
+   "t": 26.05,
+   "type": "click",
+   "x": 203,
+   "y": 657
+  },
+  {
+   "t": 26.87,
+   "type": "focus_off"
+  },
+  {
+   "t": 26.87,
+   "type": "move",
+   "x": 403,
+   "y": 795
+  },
+  {
+   "t": 27.84,
+   "type": "click",
+   "x": 403,
+   "y": 795
+  },
+  {
+   "t": 30.15,
+   "type": "step",
+   "n": 5,
+   "of": 5,
+   "text": "Phone or WhatsApp order? Create it by hand"
+  },
+  {
+   "t": 30.15,
+   "type": "move",
+   "x": 33,
+   "y": 104
+  },
+  {
+   "t": 31.58,
+   "type": "click",
+   "x": 33,
+   "y": 104
+  },
+  {
+   "t": 35.89,
+   "type": "end"
+  }
+ ]
+}

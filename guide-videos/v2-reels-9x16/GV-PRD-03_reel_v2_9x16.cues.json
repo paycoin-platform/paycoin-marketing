@@ -1,0 +1,279 @@
+{
+ "viewport": {
+  "w": 540,
+  "h": 960,
+  "scale": 2
+ },
+ "note": "times in seconds from page start (about 0.3 s earlier than the video clock); rects/points in CSS px",
+ "cues": [
+  {
+   "t": 5.8,
+   "type": "step",
+   "n": 1,
+   "of": 5,
+   "text": "Connect your delivery company"
+  },
+  {
+   "t": 5.8,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 360,
+    "w": 528,
+    "h": 440
+   }
+  },
+  {
+   "t": 5.8,
+   "type": "move",
+   "x": 135,
+   "y": 500
+  },
+  {
+   "t": 6.79,
+   "type": "move",
+   "x": 135,
+   "y": 720
+  },
+  {
+   "t": 8.93,
+   "type": "focus_off"
+  },
+  {
+   "t": 8.93,
+   "type": "step",
+   "n": 2,
+   "of": 5,
+   "text": "Add the account and link it to a store"
+  },
+  {
+   "t": 8.93,
+   "type": "move",
+   "x": 404,
+   "y": 480
+  },
+  {
+   "t": 9.92,
+   "type": "click",
+   "x": 404,
+   "y": 480
+  },
+  {
+   "t": 11.76,
+   "type": "move",
+   "x": 270,
+   "y": 282
+  },
+  {
+   "t": 12.75,
+   "type": "click",
+   "x": 270,
+   "y": 282
+  },
+  {
+   "t": 14.34,
+   "type": "move",
+   "x": 270,
+   "y": 342
+  },
+  {
+   "t": 15.22,
+   "type": "click",
+   "x": 270,
+   "y": 342
+  },
+  {
+   "t": 16.02,
+   "type": "move",
+   "x": 270,
+   "y": 434
+  },
+  {
+   "t": 16.95,
+   "type": "click",
+   "x": 270,
+   "y": 434
+  },
+  {
+   "t": 18.65,
+   "type": "move",
+   "x": 270,
+   "y": 510
+  },
+  {
+   "t": 19.65,
+   "type": "click",
+   "x": 270,
+   "y": 510
+  },
+  {
+   "t": 26.94,
+   "type": "step",
+   "n": 3,
+   "of": 5,
+   "text": "Confirm an order: pick the company"
+  },
+  {
+   "t": 26.94,
+   "type": "move",
+   "x": 66,
+   "y": 226
+  },
+  {
+   "t": 28.16,
+   "type": "click",
+   "x": 66,
+   "y": 226
+  },
+  {
+   "t": 29.21,
+   "type": "move",
+   "x": 478,
+   "y": 227
+  },
+  {
+   "t": 30.22,
+   "type": "hold",
+   "x": 478,
+   "y": 227
+  },
+  {
+   "t": 31.93,
+   "type": "move",
+   "x": 469.76171875,
+   "y": 459.0234375
+  },
+  {
+   "t": 32.84,
+   "type": "click",
+   "x": 469.76171875,
+   "y": 459.0234375
+  },
+  {
+   "t": 34.46,
+   "type": "move",
+   "x": 203,
+   "y": 657
+  },
+  {
+   "t": 35.44,
+   "type": "click",
+   "x": 203,
+   "y": 657
+  },
+  {
+   "t": 36.41,
+   "type": "move",
+   "x": 403,
+   "y": 795
+  },
+  {
+   "t": 37.42,
+   "type": "click",
+   "x": 403,
+   "y": 795
+  },
+  {
+   "t": 43.49,
+   "type": "step",
+   "n": 4,
+   "of": 5,
+   "text": "Create the manifest: store, company, uploaded orders"
+  },
+  {
+   "t": 43.49,
+   "type": "move",
+   "x": 270,
+   "y": 157
+  },
+  {
+   "t": 44.55,
+   "type": "click",
+   "x": 270,
+   "y": 157
+  },
+  {
+   "t": 46.68,
+   "type": "move",
+   "x": 270,
+   "y": 330
+  },
+  {
+   "t": 47.57,
+   "type": "move",
+   "x": 270,
+   "y": 520
+  },
+  {
+   "t": 51.13,
+   "type": "step",
+   "n": 5,
+   "of": 5,
+   "text": "Scan each parcel: the order becomes Packed"
+  },
+  {
+   "t": 51.13,
+   "type": "move",
+   "x": 125,
+   "y": 731
+  },
+  {
+   "t": 52.19,
+   "type": "click",
+   "x": 125,
+   "y": 731
+  },
+  {
+   "t": 54.12,
+   "type": "move",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 54.96,
+   "type": "click",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 56.92,
+   "type": "move",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 57.68,
+   "type": "click",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 59.54,
+   "type": "move",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 60.33,
+   "type": "click",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 62.19,
+   "type": "move",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 63,
+   "type": "click",
+   "x": 200,
+   "y": 219
+  },
+  {
+   "t": 66.63,
+   "type": "end"
+  }
+ ]
+}

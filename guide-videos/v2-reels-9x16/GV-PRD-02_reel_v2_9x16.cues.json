@@ -1,0 +1,118 @@
+{
+ "viewport": {
+  "w": 540,
+  "h": 960,
+  "scale": 2
+ },
+ "note": "times in seconds from page start (about 0.3 s earlier than the video clock); rects/points in CSS px",
+ "cues": [
+  {
+   "t": 4.79,
+   "type": "step",
+   "n": 1,
+   "of": 4,
+   "text": "Follow-up: only the parcels that need you"
+  },
+  {
+   "t": 4.79,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 280,
+    "w": 528,
+    "h": 90
+   }
+  },
+  {
+   "t": 4.79,
+   "type": "move",
+   "x": 115,
+   "y": 163
+  },
+  {
+   "t": 6.09,
+   "type": "click",
+   "x": 115,
+   "y": 163
+  },
+  {
+   "t": 8.96,
+   "type": "focus_off"
+  },
+  {
+   "t": 8.96,
+   "type": "step",
+   "n": 2,
+   "of": 4,
+   "text": "Priority and waiting time on each parcel"
+  },
+  {
+   "t": 8.96,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 372,
+    "w": 528,
+    "h": 360
+   }
+  },
+  {
+   "t": 8.96,
+   "type": "move",
+   "x": 150,
+   "y": 372
+  },
+  {
+   "t": 9.82,
+   "type": "move",
+   "x": 150,
+   "y": 590
+  },
+  {
+   "t": 12.57,
+   "type": "focus_off"
+  },
+  {
+   "t": 12.57,
+   "type": "step",
+   "n": 3,
+   "of": 4,
+   "text": "Mark each parcel: Unsolved, In follow, Solved"
+  },
+  {
+   "t": 12.57,
+   "type": "move",
+   "x": 200,
+   "y": 372
+  },
+  {
+   "t": 13.64,
+   "type": "click",
+   "x": 200,
+   "y": 372
+  },
+  {
+   "t": 17.69,
+   "type": "step",
+   "n": 4,
+   "of": 4,
+   "text": "Set your own rules with the gear"
+  },
+  {
+   "t": 17.69,
+   "type": "move",
+   "x": 510,
+   "y": 163
+  },
+  {
+   "t": 18.77,
+   "type": "click",
+   "x": 510,
+   "y": 163
+  },
+  {
+   "t": 23.88,
+   "type": "end"
+  }
+ ]
+}

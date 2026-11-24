@@ -1,0 +1,186 @@
+{
+ "viewport": {
+  "w": 540,
+  "h": 960,
+  "scale": 2
+ },
+ "note": "times in seconds from page start (about 0.3 s earlier than the video clock); rects/points in CSS px",
+ "cues": [
+  {
+   "t": 4.75,
+   "type": "step",
+   "n": 1,
+   "of": 4,
+   "text": "Courier Payments: paid to you, on hold, last update"
+  },
+  {
+   "t": 4.75,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 245,
+    "w": 528,
+    "h": 120
+   }
+  },
+  {
+   "t": 4.75,
+   "type": "move",
+   "x": 150,
+   "y": 270
+  },
+  {
+   "t": 5.7,
+   "type": "move",
+   "x": 400,
+   "y": 300
+  },
+  {
+   "t": 8.2,
+   "type": "focus_off"
+  },
+  {
+   "t": 8.2,
+   "type": "step",
+   "n": 2,
+   "of": 4,
+   "text": "Each payment: date, company, store, amount, status"
+  },
+  {
+   "t": 8.2,
+   "type": "focus",
+   "rect": {
+    "x": 6,
+    "y": 374,
+    "w": 528,
+    "h": 280
+   }
+  },
+  {
+   "t": 8.2,
+   "type": "move",
+   "x": 250,
+   "y": 420
+  },
+  {
+   "t": 9.08,
+   "type": "move",
+   "x": 250,
+   "y": 560
+  },
+  {
+   "t": 11.88,
+   "type": "focus_off"
+  },
+  {
+   "t": 11.88,
+   "type": "step",
+   "n": 3,
+   "of": 4,
+   "text": "Open a payment: every parcel with its PayCoin order"
+  },
+  {
+   "t": 11.88,
+   "type": "move",
+   "x": 482,
+   "y": 608
+  },
+  {
+   "t": 13.15,
+   "type": "click",
+   "x": 482,
+   "y": 608
+  },
+  {
+   "t": 15.9,
+   "type": "move",
+   "x": 270,
+   "y": 560
+  },
+  {
+   "t": 21.42,
+   "type": "step",
+   "n": 4,
+   "of": 4,
+   "text": "Check what reached your bank: Received, or Received with an issue"
+  },
+  {
+   "t": 21.42,
+   "type": "move",
+   "x": 447,
+   "y": 194
+  },
+  {
+   "t": 22.56,
+   "type": "click",
+   "x": 447,
+   "y": 194
+  },
+  {
+   "t": 24.47,
+   "type": "focus",
+   "rect": {
+    "x": 0,
+    "y": 790,
+    "w": 540,
+    "h": 160
+   }
+  },
+  {
+   "t": 25.98,
+   "type": "focus_off"
+  },
+  {
+   "t": 25.98,
+   "type": "move",
+   "x": 195,
+   "y": 642
+  },
+  {
+   "t": 27.18,
+   "type": "click",
+   "x": 195,
+   "y": 642
+  },
+  {
+   "t": 28.27,
+   "type": "move",
+   "x": 270,
+   "y": 725
+  },
+  {
+   "t": 29.28,
+   "type": "click",
+   "x": 270,
+   "y": 725
+  },
+  {
+   "t": 31.22,
+   "type": "move",
+   "x": 270,
+   "y": 835
+  },
+  {
+   "t": 32.24,
+   "type": "click",
+   "x": 270,
+   "y": 835
+  },
+  {
+   "t": 35.68,
+   "type": "move",
+   "x": 403,
+   "y": 930
+  },
+  {
+   "t": 36.77,
+   "type": "click",
+   "x": 403,
+   "y": 930
+  },
+  {
+   "t": 39.1,
+   "type": "end"
+  }
+ ]
+}
